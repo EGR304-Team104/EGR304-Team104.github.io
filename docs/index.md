@@ -10,7 +10,7 @@ tags:
 **Submission: month, DD, YYYY**<br>
 Semester and Year<br>
 <font size="4">Arizona State University<br>
-**EGR 304**<br>
+**EGR 314**<br>
 Professor Name<br>
   
 
@@ -22,11 +22,10 @@ Professor Name<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
 
 
-## Team Members Datasheet links
+## Team Members 
 
-| **Team Member**        |**Ind Datasheet Links** |
-| ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| **Team Member**       |**Email** |
+| Name #1               | Email #1 |
+| Name #2               | Email #2 |
+| Name #3               | Email #3 |
+| Name #4               | Email #4 |
