@@ -28,5 +28,5 @@ Professor Name<br>
 | ---------------------- | -----------------------|
 | Samuel Fontana         | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Myles White            | link |
-| Name #3                | link |
+| Nobody                 | link |
 | Name #4                | link |
