@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home Page
 tags:
 - tag1
 - tag2
